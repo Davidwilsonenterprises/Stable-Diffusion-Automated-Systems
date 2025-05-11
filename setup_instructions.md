@@ -1,0 +1,1 @@
+Detailed setup guide for SDXL pipeline.
